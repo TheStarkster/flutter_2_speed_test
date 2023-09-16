@@ -1,0 +1,19 @@
+name: speed_test_dart
+description: Internet speed tester (ping, upload, download) using speedtest.net
+version: 1.0.5+0
+homepage: https://github.com/jorger5/speed_test_dart
+repository: https://github.com/jorger5/speed_test_dart
+
+environment:
+  sdk: '>=2.14.4 <3.0.0'
+
+dependencies: 
+  http: 0.13.4
+  sync: 0.3.0
+  xml: 5.3.1
+
+
+#dev_dependencies:
+##  very_good_analysis: ^5.0.0+1
+#
+
